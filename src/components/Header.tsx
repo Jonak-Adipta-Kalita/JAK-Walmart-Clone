@@ -1,4 +1,11 @@
-import { Grid2X2, Heart, LayoutGrid, Search, User } from "lucide-react";
+import {
+    Grid2X2,
+    Heart,
+    LayoutGrid,
+    Search,
+    ShoppingCart,
+    User,
+} from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -44,6 +51,13 @@ const Header = () => {
                     <div className="">
                         <p className="text-xs font-extralight">Sign In</p>
                         <p>Account</p>
+                    </div>
+                </Link>
+                <Link href="/" className="flex header-links">
+                    <ShoppingCart size={20} />
+                    <div className="">
+                        <p className="text-xs font-extralight">No Items</p>
+                        <p>$0.00</p>
                     </div>
                 </Link>
             </div>
