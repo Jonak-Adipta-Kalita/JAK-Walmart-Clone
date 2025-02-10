@@ -21,7 +21,7 @@ const GridOption = ({
             }}
             className={cn("relative grid-option", className)}
         >
-            <h2>{title}</h2>
+            <h2 className="text-xl font-bold">{title}</h2>
             {image && (
                 <Image
                     src={`https://links.papareact.com/${image}`}
