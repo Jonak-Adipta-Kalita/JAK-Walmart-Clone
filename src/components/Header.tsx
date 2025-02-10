@@ -1,15 +1,7 @@
-"use client";
-
-import {
-    Grid2X2,
-    Heart,
-    LayoutGrid,
-    Search,
-    ShoppingCart,
-    User,
-} from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { Grid2X2, Heart, LayoutGrid, ShoppingCart, User } from "lucide-react";
+import SearchField from "./SearchField";
 
 const Header = () => {
     return (
@@ -22,16 +14,7 @@ const Header = () => {
                     height={150}
                 />
             </Link>
-            <form className="flex items-center bg-white rounded-full w-full flex-1">
-                <input
-                    placeholder="Search Everything..."
-                    type="text"
-                    className="flex-1 px-4 rounded-l-full outline-none placeholder:text-sm"
-                />
-                <button>
-                    <Search className="rounded-full h-10 px-2 w-10 bg-yellow-400 cursor-pointer" />
-                </button>
-            </form>
+            <SearchField />
             <div className="flex space-x-5 p-5 pb-0 md:p-0">
                 <Link href="/" className="hidden xl:flex header-links">
                     <Grid2X2 size={20} />
