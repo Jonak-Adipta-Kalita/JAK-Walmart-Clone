@@ -1,4 +1,4 @@
-import Image from "next/legacy/image";
+import Image from "next/image";
 import Link from "next/link";
 import { Grid2X2, Heart, LayoutGrid, ShoppingCart, User } from "lucide-react";
 import SearchField from "./SearchField";
