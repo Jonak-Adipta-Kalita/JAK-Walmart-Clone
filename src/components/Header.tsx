@@ -38,7 +38,7 @@ const Header = () => {
                         <p>Account</p>
                     </div>
                 </Link>
-                <Link href="/" className="flex header-links">
+                <Link href="/basket" className="flex header-links">
                     <ShoppingCart size={20} />
                     <div className="">
                         <p className="text-xs font-extralight">No Items</p>
