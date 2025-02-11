@@ -1,82 +1,92 @@
 export interface SearchResult {
     results: Result[];
-    total_results: number;
-    last_visible_page: number;
-    parse_status_code: number;
+}
+
+export interface Result {
+    content: Content;
     created_at: string;
     updated_at: string;
     page: number;
     url: string;
     job_id: string;
+    is_render_forced: boolean;
     status_code: number;
     parser_type: string;
 }
 
-export interface Result {
-    content: Content;
-}
-
 export interface Content {
     url: string;
-    organic: Organic[];
-    total_results: number;
-    last_visible_page: number;
+    facets: Facet[];
+    results: Product[];
+    location: Location;
+    page_details: PageDetails;
     parse_status_code: number;
 }
 
-export interface Organic {
-    url: string;
-    image: string;
-    price: {
-        price: number;
-        currency: string;
-    };
-    title: string;
-    rating: {
-        count: number;
-        rating: number;
-    };
-    seller: {
-        name: string;
-    };
-    product_id: string;
-    badge?: string;
-    variants: { url: string; title: string; product_id: string }[];
+export interface Facet {
+    type: string;
+    values: { name: string }[];
+    display_name: string;
 }
 
-export interface Job {
-    callback_url: string;
-    client_id: string;
-    context: { key: string; value: any }[];
-    created_at: string;
-    domain: string;
-    geo_location: null | string;
+export interface Product {
+    price: Price;
+    rating: Rating;
+    seller: Seller;
+    general: GeneralInfo;
+    variants: Variant[];
+    fulfillment: Fulfillment;
+}
+
+export interface Price {
+    price: number;
+    currency: string;
+}
+
+export interface Rating {
+    count: number;
+    rating: number;
+}
+
+export interface Seller {
     id: string;
-    limit: number;
-    locale: null | string;
-    pages: number;
-    parse: boolean;
-    parser_type: null | string;
-    parsing_instructions: null | string;
-    browser_instructions: null | string;
-    render: null | boolean;
+    name: string;
+}
+
+export interface GeneralInfo {
+    pos: number;
     url: string;
-    query: string;
-    source: string;
-    start_page: number;
-    status: string;
-    storage_type: string;
-    storage_url: string;
-    subdomain: string;
-    content_encoding: string;
-    updated_at: string;
-    user_agent_type: string;
-    session_info: null | string;
-    statuses: any[];
-    client_notes: null | string;
-    _links: {
-        rel: string;
-        href: string;
-        method: string;
-    }[];
+    image: string;
+    title: string;
+    sponsored: boolean;
+    product_id: string;
+    out_of_stock: boolean;
+    section_title: string;
+}
+
+export interface Variant {
+    url: string;
+    image: string;
+    title: string;
+    product_id: string;
+}
+
+export interface Fulfillment {
+    pickup: boolean;
+    delivery: boolean;
+    shipping: boolean;
+    free_shipping: boolean;
+}
+
+export interface Location {
+    city: string;
+    state: string;
+    zipcode: string;
+    store_id: string;
+}
+
+export interface PageDetails {
+    page: number;
+    total_results: number;
+    last_visible_page: number;
 }
