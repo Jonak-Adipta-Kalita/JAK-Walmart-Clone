@@ -1,5 +1,4 @@
 import { SearchResult } from "@/typings/searchTypings";
-import axios from "axios";
 
 export const fetchSearch = async (searchTerm: string) => {
     const username = process.env.OXYLABS_USERNAME;
@@ -14,16 +13,21 @@ export const fetchSearch = async (searchTerm: string) => {
         parse: true,
     };
 
-    const response = axios
-        .post<SearchResult>("https://realtime.oxylabs.io/v1/queries", body, {
-            headers: {
-                "Content-Type": "application/json",
-                Authorization: `Basic ${Buffer.from(
-                    `${username}:${password}`
-                ).toString("base64")}`,
-            },
-        })
-        .then(({ data }) => {
+    const response = fetch("https://realtime.oxylabs.io/v1/queries", {
+        method: "post",
+        body: JSON.stringify(body),
+        headers: {
+            "Content-Type": "application/json",
+            Authorization: `Basic ${Buffer.from(
+                `${username}:${password}`
+            ).toString("base64")}`,
+        },
+        next: {
+            revalidate: 60 * 60,
+        },
+    })
+        .then((res) => res.json() as Promise<SearchResult>)
+        .then((data) => {
             if (data.results.length === 0) return;
 
             return data.results[0];
