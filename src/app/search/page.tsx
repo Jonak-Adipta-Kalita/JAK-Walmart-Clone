@@ -1,13 +1,15 @@
-import React from "react";
+import { fetchSearch } from "@/lib/fetchSearch";
 
-const SearchPage = ({
+const SearchPage = async ({
     searchParams: { q },
 }: {
     searchParams: {
         q: string;
     };
 }) => {
-    return <div></div>;
+    const data = await fetchSearch(q);
+
+    return <div>{JSON.stringify(data)}</div>;
 };
 
 export default SearchPage;
