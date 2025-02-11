@@ -1,1 +1,4 @@
-{ "prettier.requireConfig": false }
+{
+    "prettier.requireConfig": false,
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+}
