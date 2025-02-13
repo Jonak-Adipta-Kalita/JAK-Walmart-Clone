@@ -1,0 +1,1479 @@
+{
+    "content": {
+        "url": "https://www.walmart.com/search?q=pokemon",
+        "facets": [
+            {
+                "type": "sort",
+                "values": [
+                    { "name": "Best Match" },
+                    { "name": "Price Low" },
+                    { "name": "Price High" },
+                    { "name": "Best Seller" }
+                ],
+                "display_name": "Sort by"
+            },
+            {
+                "type": "facet_product_type",
+                "values": [
+                    { "name": "Action Figures", "item_count": 1560 },
+                    { "name": "Trading Card Games", "item_count": 5089 },
+                    { "name": "Trading Cards", "item_count": 3533 },
+                    { "name": "Action Figure Sets", "item_count": 343 },
+                    { "name": "Art & Craft Kits", "item_count": 868 },
+                    { "name": "Art Sets", "item_count": 6 },
+                    { "name": "Autographed Collectibles", "item_count": 1 },
+                    { "name": "Board Games", "item_count": 77 },
+                    { "name": "Books", "item_count": 3300 },
+                    { "name": "Coloring Books", "item_count": 84 },
+                    { "name": "Decorative Pillows", "item_count": 221 },
+                    { "name": "Fruit Snacks", "item_count": 8 },
+                    { "name": "Hats", "item_count": 9117 },
+                    {
+                        "name": "Interlocking Block Building Sets",
+                        "item_count": 441
+                    },
+                    { "name": "Lingerie Sets", "item_count": 1 },
+                    { "name": "Movies", "item_count": 179 },
+                    { "name": "Pajamas", "item_count": 66444 },
+                    { "name": "Powered Toothbrushes", "item_count": 2 },
+                    { "name": "Socks", "item_count": 2302 },
+                    {
+                        "name": "Stuffed Animals & Plush Toys",
+                        "item_count": 10412
+                    }
+                ],
+                "display_name": "Product Category"
+            },
+            {
+                "type": "fulfillment_speed",
+                "values": [
+                    { "name": "Today", "item_count": 0 },
+                    { "name": "Tomorrow", "item_count": 0 },
+                    { "name": "2 days", "item_count": 0 },
+                    { "name": "Anytime", "item_count": 0 }
+                ],
+                "display_name": "Fulfillment Speed"
+            },
+            {
+                "type": "age_range_general",
+                "values": [
+                    { "name": "0 to 12 Months", "item_count": 2204 },
+                    { "name": "12 to 24 Months", "item_count": 3022 },
+                    { "name": "2 to 4 Years", "item_count": 5161 },
+                    { "name": "5 to 7 Years", "item_count": 6198 },
+                    { "name": "8 to 11 Years", "item_count": 7911 },
+                    { "name": "12 Years & Up", "item_count": 8032 },
+                    { "name": "4 & Under", "item_count": 2201 }
+                ],
+                "display_name": "Age"
+            },
+            {
+                "type": "brand",
+                "values": [
+                    { "name": "Pokemon", "item_count": 40774 },
+                    { "name": "MEGA", "item_count": 116 },
+                    { "name": "Crayola", "item_count": 10 },
+                    { "name": "CCG Select", "item_count": 9 },
+                    { "name": "Nintendo", "item_count": 457 },
+                    { "name": "Colgate", "item_count": 2 },
+                    { "name": "Minecraft", "item_count": 7 },
+                    { "name": "Betty Crocker", "item_count": 5 },
+                    { "name": "Top Class Cards", "item_count": 5 },
+                    { "name": "LEGO", "item_count": 1 },
+                    { "name": "Scholastic", "item_count": 304 },
+                    { "name": "Squishmallows", "item_count": 49 },
+                    { "name": "Marvel", "item_count": 9 },
+                    { "name": "GG Collection", "item_count": 4 },
+                    { "name": "LICENSE", "item_count": 1 },
+                    { "name": "Teenage Mutant Ninja Turtles", "item_count": 6 },
+                    { "name": "Lite Brite", "item_count": 1 },
+                    { "name": "Hello Kitty", "item_count": 2 },
+                    { "name": "Disney", "item_count": 23 },
+                    { "name": "Maria S. Barbo", "item_count": 6 }
+                ],
+                "display_name": "Brand"
+            },
+            {
+                "type": "customer_rating",
+                "values": [
+                    { "name": "4 - 5 Stars", "item_count": 3411 },
+                    { "name": "3 - 3.9 Stars", "item_count": 3955 },
+                    { "name": "2 - 2.9 Stars", "item_count": 4145 },
+                    { "name": "1 - 1.9 Stars", "item_count": 4521 }
+                ],
+                "display_name": "Customer Rating"
+            },
+            { "max": 140, "min": 0, "type": "price", "display_name": "Price" },
+            {
+                "type": "subscription_eligible",
+                "values": [{ "name": "Subscription item", "item_count": 1 }],
+                "display_name": "Subscription"
+            },
+            {
+                "type": "clothing_size_final",
+                "values": [
+                    { "name": "Women's 00, XXS", "item_count": 44 },
+                    { "name": "Women's 0, XS", "item_count": 1543 },
+                    { "name": "Women's 2, XS", "item_count": 1543 },
+                    { "name": "Women's 4, S", "item_count": 14133 },
+                    { "name": "Women's 6, S", "item_count": 14132 },
+                    { "name": "Women's 8, M", "item_count": 14694 },
+                    { "name": "Women's 10, M", "item_count": 14643 },
+                    { "name": "Women's 12, L", "item_count": 13607 },
+                    { "name": "Women's 14, L", "item_count": 13653 },
+                    { "name": "Women's 16, XL", "item_count": 13838 },
+                    { "name": "Women's 18, 2XL", "item_count": 9506 },
+                    { "name": "Women's 20, 3XL", "item_count": 5294 },
+                    { "name": "Women's 22+, 4XL+", "item_count": 6012 },
+                    { "name": "Women's 12W, 0X", "item_count": 13791 },
+                    { "name": "Women's 16W, 1X, 20, 3XL", "item_count": 753 },
+                    { "name": "Women's 18W, 2X, 22, 4XL", "item_count": 704 },
+                    { "name": "Women's 22W, 3X", "item_count": 710 },
+                    { "name": "Women's 26W, 4X", "item_count": 737 },
+                    { "name": "Women's 28W+, 4X+", "item_count": 737 },
+                    { "name": "Women's One Size", "item_count": 1769 },
+                    { "name": "Maternity 4, S", "item_count": 1 },
+                    { "name": "Maternity 6, S", "item_count": 1 },
+                    { "name": "Maternity 12, L", "item_count": 1 },
+                    { "name": "Maternity 14, L", "item_count": 1 },
+                    { "name": "Maternity 18+, XXL", "item_count": 1 },
+                    { "name": "Baby 3-6 Months", "item_count": 5 },
+                    { "name": "Baby 18 Months", "item_count": 26 },
+                    { "name": "Toddler 2T", "item_count": 21 },
+                    { "name": "Toddler 3T", "item_count": 16 },
+                    { "name": "Toddler 4T", "item_count": 18 },
+                    { "name": "Toddler 5T", "item_count": 3 },
+                    { "name": "Kids XS (4-5)", "item_count": 2476 },
+                    { "name": "Kids S (5-6)", "item_count": 9720 },
+                    { "name": "Kids S (6-6X)", "item_count": 62 },
+                    { "name": "Kids S (6-7)", "item_count": 9761 },
+                    { "name": "Kids M (7-8)", "item_count": 133 },
+                    { "name": "Kids M (8-10)", "item_count": 9994 },
+                    { "name": "Kids L (10-12)", "item_count": 111 },
+                    { "name": "Kids L (12-14)", "item_count": 9954 },
+                    { "name": "Kids XL (14-16)", "item_count": 9737 },
+                    { "name": "Kids XXL (18-20)", "item_count": 53 },
+                    { "name": "Men's XS", "item_count": 2615 },
+                    { "name": "Men's S", "item_count": 12840 },
+                    { "name": "Men's M", "item_count": 13959 },
+                    { "name": "Men's L", "item_count": 13889 },
+                    { "name": "Men's XL", "item_count": 13831 },
+                    { "name": "Men's 2XL", "item_count": 14425 },
+                    { "name": "Men's 3XL", "item_count": 1239 },
+                    { "name": "Men's 4XL", "item_count": 813 },
+                    { "name": "Men's 28", "item_count": 1 },
+                    { "name": "Big & Tall L-Tall", "item_count": 15 },
+                    { "name": "Big & Tall XL-Tall", "item_count": 15 },
+                    { "name": "Big & Tall 3XL-Big", "item_count": 23 },
+                    { "name": "Big & Tall 3XL-Tall", "item_count": 4 },
+                    { "name": "Big & Tall 4XL-Big", "item_count": 13 },
+                    { "name": "Big & Tall 4XL-Tall", "item_count": 5 },
+                    { "name": "Big & Tall 5XL-Big", "item_count": 11 },
+                    { "name": "Kids & Baby 18-24 Months", "item_count": 1 },
+                    { "name": "Kids & Baby 4T", "item_count": 1 },
+                    { "name": "Kids & Baby M (8-10)", "item_count": 2 }
+                ],
+                "display_name": "Clothing Size"
+            },
+            {
+                "type": "clothing_size_group",
+                "values": [
+                    { "name": "Newborn", "item_count": 6 },
+                    { "name": "Infant", "item_count": 472 },
+                    { "name": "Toddler", "item_count": 288 },
+                    { "name": "Little Girls", "item_count": 1630 },
+                    { "name": "Little Girls Slim", "item_count": 6 },
+                    { "name": "Little Girls Plus", "item_count": 6 },
+                    { "name": "Big Girls", "item_count": 9338 },
+                    { "name": "Big Girls Slim", "item_count": 5 },
+                    { "name": "Big Girls Plus", "item_count": 23 },
+                    { "name": "Little Boys", "item_count": 9403 },
+                    { "name": "Little Boys Slim", "item_count": 6 },
+                    { "name": "Big Boys", "item_count": 40574 },
+                    { "name": "Big Boys Slim", "item_count": 12 },
+                    { "name": "Big Boys Husky", "item_count": 13 },
+                    { "name": "Young Women's", "item_count": 42784 },
+                    { "name": "Young Women's Plus", "item_count": 19 },
+                    { "name": "Young Men's", "item_count": 2968 },
+                    { "name": "Women", "item_count": 45784 },
+                    { "name": "Women's Plus", "item_count": 952 },
+                    { "name": "Petite", "item_count": 1 }
+                ],
+                "display_name": "Clothing Size Group"
+            },
+            {
+                "type": "color",
+                "values": [
+                    { "name": "Black", "item_count": 111281 },
+                    { "name": "White", "item_count": 77825 },
+                    { "name": "Blue", "item_count": 21782 },
+                    { "name": "Multicolor", "item_count": 15937 },
+                    { "name": "Green", "item_count": 13932 },
+                    { "name": "Gray", "item_count": 13679 },
+                    { "name": "Red", "item_count": 9078 },
+                    { "name": "Pink", "item_count": 5089 },
+                    { "name": "Purple", "item_count": 4869 },
+                    { "name": "Orange", "item_count": 4550 },
+                    { "name": "Yellow", "item_count": 3339 },
+                    { "name": "Brown", "item_count": 2025 },
+                    { "name": "Beige", "item_count": 1423 },
+                    { "name": "Gold", "item_count": 545 },
+                    { "name": "Silver", "item_count": 209 },
+                    { "name": "Clear", "item_count": 114 },
+                    { "name": "Other", "item_count": 53824 },
+                    { "name": "Off-White", "item_count": 1972 },
+                    { "name": "Bronze", "item_count": 190 },
+                    { "name": "Assorted", "item_count": 20 }
+                ],
+                "display_name": "Color"
+            },
+            {
+                "type": "gender_toys",
+                "values": [
+                    { "name": "Boys", "item_count": 2789 },
+                    { "name": "Girls", "item_count": 2732 },
+                    { "name": "Unisex", "item_count": 3833 }
+                ],
+                "display_name": "Gender"
+            },
+            {
+                "type": "material",
+                "values": [
+                    { "name": "100% Cotton", "item_count": 1237 },
+                    { "name": "Acrylic", "item_count": 601 },
+                    { "name": "Canvas", "item_count": 476 },
+                    { "name": "Cloth", "item_count": 1 },
+                    { "name": "Copper", "item_count": 5 },
+                    { "name": "Cotton", "item_count": 10068 },
+                    { "name": "Cotton Blend", "item_count": 29 },
+                    { "name": "Fabric", "item_count": 41 },
+                    { "name": "Faux Leather", "item_count": 4 },
+                    { "name": "Flannel", "item_count": 676 },
+                    { "name": "Fleece", "item_count": 127 },
+                    { "name": "Leather", "item_count": 34 },
+                    { "name": "Metal", "item_count": 53 },
+                    { "name": "Microfiber", "item_count": 1443 },
+                    { "name": "Other", "item_count": 13 },
+                    { "name": "PVC", "item_count": 5 },
+                    { "name": "Paper", "item_count": 781 },
+                    { "name": "Plastic", "item_count": 1982 },
+                    { "name": "Polyester", "item_count": 17364 },
+                    { "name": "Polyester Blend", "item_count": 5 }
+                ],
+                "display_name": "Material"
+            },
+            {
+                "type": "video_game_platform",
+                "values": [
+                    { "name": "Xbox One", "item_count": 3 },
+                    { "name": "PlayStation 4", "item_count": 11 },
+                    { "name": "PlayStation 3", "item_count": 2 },
+                    { "name": "Nintendo Wii U", "item_count": 21 },
+                    { "name": "Nintendo Wii", "item_count": 14 },
+                    { "name": "Nintendo 3DS", "item_count": 137 },
+                    { "name": "Nintendo 2DS", "item_count": 18 },
+                    { "name": "PC", "item_count": 16 },
+                    { "name": "PlayStation Vita", "item_count": 1 },
+                    { "name": "Nintendo DS & DSi", "item_count": 200 },
+                    { "name": "PlayStation 2", "item_count": 4 },
+                    { "name": "Universal", "item_count": 4 },
+                    { "name": "Nintendo", "item_count": 336 },
+                    { "name": "Atari", "item_count": 1 },
+                    { "name": "Classic Game Console", "item_count": 3 },
+                    { "name": "Nintendo 64", "item_count": 70 },
+                    { "name": "Nintendo Gamecube", "item_count": 7 },
+                    { "name": "Nintendo Switch", "item_count": 268 },
+                    { "name": "PlayStation", "item_count": 3 },
+                    { "name": "PlayStation 5", "item_count": 4 }
+                ],
+                "display_name": "Video Game Platform"
+            },
+            {
+                "type": "video_game_collection",
+                "values": [
+                    { "name": "Guitar Hero", "item_count": 1 },
+                    { "name": "Pokemon", "item_count": 184 }
+                ],
+                "display_name": "Game Collections"
+            },
+            {
+                "type": "special_offers",
+                "values": [
+                    { "name": "Clearance", "item_count": 840 },
+                    { "name": "Reduced Price", "item_count": 470 },
+                    { "name": "Rollback", "item_count": 1 }
+                ],
+                "display_name": "Special Offers"
+            },
+            {
+                "type": "retailer_type",
+                "values": [
+                    { "name": "Walmart", "item_count": 2554 },
+                    { "name": "Pro Sellers", "item_count": 4439 },
+                    {
+                        "name": "Marketplace Sellers fulfilled by Walmart",
+                        "item_count": 2251
+                    }
+                ],
+                "display_name": "Retailer"
+            },
+            {
+                "type": "Gifting",
+                "values": [{ "name": "Gift eligible", "item_count": 197 }],
+                "display_name": "Gifting"
+            },
+            {
+                "type": "benefit_programs",
+                "values": [{ "name": "SNAP eligible" }],
+                "display_name": "Benefit Programs"
+            },
+            {
+                "type": "cat_id",
+                "values": [
+                    { "name": "Toys", "type": "cat_id", "item_count": 32401 },
+                    {
+                        "name": "Collectibles",
+                        "type": "cat_id",
+                        "item_count": 24123
+                    },
+                    {
+                        "name": "Clothing",
+                        "type": "cat_id",
+                        "item_count": 333454
+                    },
+                    { "name": "Books", "type": "cat_id", "item_count": 3387 },
+                    {
+                        "name": "Video Games",
+                        "type": "cat_id",
+                        "item_count": 2028
+                    },
+                    { "name": "Home", "type": "cat_id", "item_count": 98168 },
+                    {
+                        "name": "Arts Crafts & Sewing",
+                        "type": "cat_id",
+                        "item_count": 893
+                    },
+                    { "name": "Jewelry", "type": "cat_id", "item_count": 58 },
+                    {
+                        "name": "Personal Care",
+                        "type": "cat_id",
+                        "item_count": 5
+                    }
+                ],
+                "display_name": "Departments"
+            },
+            {
+                "type": "exclude_oos",
+                "values": [{ "name": "Show available items only" }],
+                "display_name": "Availability"
+            }
+        ],
+        "results": [
+            {
+                "price": {
+                    "price": 71.11,
+                    "currency": "USD",
+                    "price_strikethrough": 109.99
+                },
+                "rating": { "count": 6, "rating": 4.3 },
+                "seller": {
+                    "id": "1666DEF79E9F438182BA11D21FC56FAE",
+                    "name": "Buy and Sell 87 LLC"
+                },
+                "general": {
+                    "pos": 1,
+                    "url": "/ip/Pok-mon-TCG-Scarlet-Violet-8-5-Prismatic-Evolutions-Surprise-Box/14148473268?classType=REGULAR&athbdg=L1600",
+                    "badge": "Best seller",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-TCG-Scarlet-Violet-8-5-Prismatic-Evolutions-Surprise-Box_d506be7d-fc88-46a8-99a9-dcc7439ca937.49af157aedff4d7bf335d6ba84dc10a6.jpeg",
+                    "title": "Pokemon Trading Card Games Scarlett & Violet 8.5 Prismatic Evolutions Surprise Box",
+                    "sponsored": false,
+                    "product_id": "14148473268",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 57.99,
+                    "currency": "USD",
+                    "price_strikethrough": 75
+                },
+                "rating": { "count": 1761, "rating": 4.5 },
+                "seller": {
+                    "id": "45C4B5971AFE42909259C44AFC67A814",
+                    "name": "GT Collectibles and Toys"
+                },
+                "general": {
+                    "pos": 2,
+                    "url": "/ip/Pokemon-Trading-Card-Games-Scarlet-Violet-3-5-151-Booster-Bundle-with-6-Booster-Card-Packs/1160437186?classType=REGULAR&athbdg=L1600",
+                    "badge": "Best seller",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Trading-Card-Games-Scarlet-Violet-3-5-151-Booster-Bundle-with-6-Booster-Card-Packs_9b0ac748-6006-41a3-92e8-d2c3cac234ce.95967b0b1d0a847a56ac23760a323ed4.jpeg",
+                    "title": "Pokemon Trading Card Games Scarlet & Violet 3.5 -151 Booster Bundle with 6 Booster Card Packs",
+                    "sponsored": false,
+                    "product_id": "1160437186",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 28.92,
+                    "currency": "USD",
+                    "price_strikethrough": 34.95
+                },
+                "rating": { "count": 39, "rating": 4.6 },
+                "seller": {
+                    "id": "F55CDC31AB754BB68FE0B39041159D63",
+                    "name": "Walmart.com"
+                },
+                "general": {
+                    "pos": 3,
+                    "url": "/ip/Pok-mon-TCG-Scarlet-Violet-6-5-Shrouded-Fable-Booster-Bundle/5988933729?classType=REGULAR&athbdg=L1102",
+                    "badge": "100+ bought since yesterday",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-TCG-Scarlet-Violet-6-5-Shrouded-Fable-Booster-Bundle_180c42cc-0552-4439-8b79-da77c4ca08cb.bfffd650bfde12a77f0e5b81ba576f2b.jpeg",
+                    "title": "Pokemon Trading Card Games Scarlet & Violet 6.5 Shrouded Fable Booster Bundle",
+                    "sponsored": false,
+                    "product_id": "5988933729",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 16.89, "currency": "USD" },
+                "rating": { "count": 99, "rating": 4.6 },
+                "seller": {
+                    "id": "DDED5CC54A2949B084DC1A3BDB98DA1B",
+                    "name": "BBToyStore"
+                },
+                "general": {
+                    "pos": 4,
+                    "url": "/ip/POKEMON-TRICK-OR-TRADE-BOOSTER-BUNDLE-24/8470874908?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/POKEMON-TRICK-OR-TRADE-BOOSTER-BUNDLE-24_d1ae8d81-ac1b-4bf4-8df7-b3c12fc0ade3.b1d69b10dd1171fdd268079cf2ad26f7.jpeg",
+                    "title": "Pokemon Trading Card Games 2024 Trick or Trade BOOster Bundle",
+                    "sponsored": false,
+                    "product_id": "8470874908",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 59.97, "currency": "USD" },
+                "rating": { "count": 215, "rating": 4.4 },
+                "seller": {
+                    "id": "8A8EE8C86D6C484C87CFBE361D355874",
+                    "name": "Shazaar USA"
+                },
+                "general": {
+                    "pos": 5,
+                    "url": "/ip/Pok-mon-TCG-Scarlet-Violet-8-Surging-Sparks-Booster-Bundle/10692754252?classType=REGULAR&athbdg=L1600",
+                    "badge": "Best seller",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-TCG-Scarlet-Violet-8-Surging-Sparks-Booster-Bundle_cf3f0d77-782e-46e4-b168-a341cc7b25f7.0d8b0fabb15475e85ccebc0bb181e7d8.jpeg",
+                    "title": "Pokemon Trading Card Games Scarlet & Violet 8 Surging Sparks Booster Bundle",
+                    "sponsored": false,
+                    "product_id": "10692754252",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 25.99,
+                    "currency": "USD",
+                    "price_strikethrough": 34.55
+                },
+                "rating": { "count": 23, "rating": 4.4 },
+                "seller": {
+                    "id": "8A8EE8C86D6C484C87CFBE361D355874",
+                    "name": "Shazaar USA"
+                },
+                "general": {
+                    "pos": 6,
+                    "url": "/ip/POKEMON-BLOODMOON-URSALUNA-EX-BOX/11806422095?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/POKEMON-BLOODMOON-URSALUNA-EX-BOX_54ccee00-1f12-4649-9265-d2012d69339e.0f747357ec6fc26487bde334bf696323.jpeg",
+                    "title": "Pokemon Trading Card Games Bloodmoon Ursaluna Ex Box",
+                    "sponsored": false,
+                    "product_id": "11806422095",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 144.99, "currency": "USD" },
+                "rating": { "count": 8, "rating": 4 },
+                "seller": {
+                    "id": "E480B19A53CC45AE85A2B1EAA9DE68CB",
+                    "name": "Flipside Gaming"
+                },
+                "general": {
+                    "pos": 7,
+                    "url": "/ip/Pokemon-151-Blooming-Waters-Premium-Collection-12-Packs-Promo-Cards-Costco/15054853620?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-151-Blooming-Waters-Premium-Collection-12-Packs-Promo-Cards-Costco_87a3c5d6-a76f-4b38-a392-822e910a0d9b.1b7d86e4e6a1e8e6609d24cb2184c274.jpeg",
+                    "title": "Pokemon 151 Blooming Waters Premium Collection - 12 Packs + Promo Cards",
+                    "sponsored": false,
+                    "product_id": "15054853620",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 129.44,
+                    "currency": "USD",
+                    "price_strikethrough": 159.99
+                },
+                "rating": { "count": 297, "rating": 4.3 },
+                "seller": {
+                    "id": "5811F7C53AB14DE5943E726AA07291A9",
+                    "name": "Rares Market"
+                },
+                "general": {
+                    "pos": 8,
+                    "url": "/ip/Pokemon-Scarlet-and-Violet-8-5-Prismatic-Evolutions-Elite-Trainer-Box/13816151308?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Scarlet-and-Violet-8-5-Prismatic-Evolutions-Elite-Trainer-Box_0ef018aa-2e2a-4ef1-8d13-cf12387bb716.d040620befb3037df21b1c13d6d6e561.jpeg",
+                    "title": "Pokemon Scarlet & Violet - Prismatic Evolutions Elite Trainer Box",
+                    "sponsored": false,
+                    "product_id": "13816151308",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 12.14,
+                    "currency": "USD",
+                    "price_strikethrough": 13.49
+                },
+                "rating": { "count": 7, "rating": 4.4 },
+                "seller": {
+                    "id": "8510D84AF91144E4BCF9E578DC7260FF",
+                    "name": "Montage TCG"
+                },
+                "general": {
+                    "pos": 9,
+                    "url": "/ip/Fifty-50-Japanese-Pok-mon-Card-Hits-ONLY-Fat-Pack-RRR-RR-Triple-Rare-Fat-Pack-Gradeable-Mint-Cards/7863224355?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Fifty-50-Japanese-Pok-mon-Card-Hits-ONLY-Fat-Pack-RRR-RR-Triple-Rare-Fat-Pack-Gradeable-Mint-Cards_e2a409a3-4262-4d6c-bbe2-1a95ab7ee174.a4cc2e5b961bbd42f4c3e7b1965112a9.png",
+                    "title": "Pokemon Cards Pack Japanese Double Rare 10 Card Value Pack",
+                    "sponsored": false,
+                    "product_id": "7863224355",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 53.6, "currency": "USD" },
+                "rating": { "count": 109, "rating": 4.2 },
+                "seller": {
+                    "id": "3C0D2631588645569FE1CD5CE5DFD617",
+                    "name": "Toynado Alley"
+                },
+                "general": {
+                    "pos": 10,
+                    "url": "/ip/Pok-mon-TCG-Scarlet-Violet-Shrouded-Fable-Elite-Trainer-Box/5977297380?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-TCG-Scarlet-Violet-Shrouded-Fable-Elite-Trainer-Box_01829bae-edab-4269-8bf6-c69c7c35d866.0c3888ada459ce4c4333f8cd041a390c.jpeg",
+                    "title": "Pokemon Trading Card Game Scarlet & Violet 6.5 Shrouded Fable Elite Trainer Box",
+                    "sponsored": false,
+                    "product_id": "5977297380",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 29.99, "currency": "USD" },
+                "rating": { "count": 17, "rating": 3.8 },
+                "seller": {
+                    "id": "45C4B5971AFE42909259C44AFC67A814",
+                    "name": "GT Collectibles and Toys"
+                },
+                "general": {
+                    "pos": 11,
+                    "url": "/ip/Pok-mon-TCG-Scarlet-Violet-8-5-Prismatic-Evolutions-Tech-Sticker-Collection/14191660941?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-TCG-Scarlet-Violet-8-5-Prismatic-Evolutions-Tech-Sticker-Collection_11232c63-082d-4836-a9d3-19d912e87f53.4a218c543f07273991351471d5a2f99a.jpeg",
+                    "title": "Pokemon Trading Cards SV 8.5 Prismatic Evolutions Tech Sticker Collection",
+                    "sponsored": false,
+                    "product_id": "14191660941",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 69.95, "currency": "USD" },
+                "rating": { "count": 129, "rating": 4.5 },
+                "seller": {
+                    "id": "E199C06D59F441E4AB7E7BC65F591126",
+                    "name": "Rez Broz Collectibles"
+                },
+                "general": {
+                    "pos": 12,
+                    "url": "/ip/Pokemon-Trading-Card-Games-SV4-5-Paldean-Fates-Booster-Bundle/5226743077?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Trading-Card-Games-SV4-5-Paldean-Fates-Booster-Bundle_d422356a-f474-4442-86c8-43772d5d2ab7.86b6cae219faf79d22bcbc8fa16ccd18.png",
+                    "title": "Pokemon Trading Card Games SV4.5 Paldean Fates Booster Bundle",
+                    "sponsored": false,
+                    "product_id": "5226743077",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 18.98,
+                    "currency": "USD",
+                    "price_strikethrough": 23.39
+                },
+                "rating": { "count": 615, "rating": 3.8 },
+                "seller": {
+                    "id": "306308BD3D4A412FBD2DAF256AC47AF0",
+                    "name": "CCG Select"
+                },
+                "general": {
+                    "pos": 13,
+                    "url": "/ip/CCG-Select-100-Cards-Plus-8-Holos-or-Rare-Cards-Compatible-with-Pokemon-Cards/1618444411?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/CCG-Select-100-Cards-Plus-8-Holos-or-Rare-Cards-Compatible-with-Pokemon-Cards_23b8a0e2-7c5d-45c2-a9a6-d50959d99186.9245d37113438b4e1601945044bf4483.jpeg",
+                    "title": "Ultra Box | 100 Cards | 2 Guaranteed Ultra Rares | Plus 8 Holos or Rare Cards | Compatible with Pokemon Cards",
+                    "sponsored": false,
+                    "product_id": "1618444411",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": {
+                    "price": 128.99,
+                    "currency": "USD",
+                    "price_strikethrough": 205.99
+                },
+                "rating": { "count": 304, "rating": 4.4 },
+                "seller": {
+                    "id": "5811F7C53AB14DE5943E726AA07291A9",
+                    "name": "Rares Market"
+                },
+                "general": {
+                    "pos": 14,
+                    "url": "/ip/Pokemon-Card-Game-Scarlet-Violet-Enhanced-Expansion-Pack-Pokemon-Card-151-Box-Japanese/2053692795?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Card-Game-Scarlet-Violet-Enhanced-Expansion-Pack-Pokemon-Card-151-Box-Japanese_1c48acc0-0790-4771-9857-1eed75be2304.aedbd8f368ca78737e4ff6643f4fee84.jpeg",
+                    "title": "Pokemon Card Game Scarlet & Violet Enhanced Expansion Pack Pokemon Card 151\" Box (Japanese)",
+                    "sponsored": false,
+                    "product_id": "2053692795",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 68.75, "currency": "USD" },
+                "rating": { "count": 209, "rating": 4.5 },
+                "seller": {
+                    "id": "739BCFB58D7646C494DF5BF28BB830D7",
+                    "name": "Cash Cards Unlimited"
+                },
+                "general": {
+                    "pos": 15,
+                    "url": "/ip/Pok-mon-TCG-Scarlet-Violet-7-Stellar-Crown-Elite-Trainer-Box/7762615377?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-TCG-Scarlet-Violet-7-Stellar-Crown-Elite-Trainer-Box_51ded518-bbc7-4213-b1cb-364a2914def4.d3c5c379a614fc8a4a7b86f020ac607b.jpeg",
+                    "title": "Pokemon Scarlet & Violet 7 Stellar Crown Elite Trainer Box",
+                    "sponsored": false,
+                    "product_id": "7762615377",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 19.78, "currency": "USD" },
+                "rating": { "count": 463, "rating": 4.8 },
+                "seller": {
+                    "id": "F55CDC31AB754BB68FE0B39041159D63",
+                    "name": "Walmart.com"
+                },
+                "general": {
+                    "pos": 16,
+                    "url": "/ip/MEGA-Pokemon-Building-Set-Kanto-Region-Team-Pikachu-Squirtle-Charmander-Bulbasaur-130-Pieces-for-Ages-8-and-up/405654641?classType=REGULAR&athbdg=L1103",
+                    "badge": "In 100+ people's carts",
+                    "image": "https://i5.walmartimages.com/seo/MEGA-Pokemon-Building-Set-Kanto-Region-Team-Pikachu-Squirtle-Charmander-Bulbasaur-130-Pieces-for-Ages-8-and-up_c2169d74-f828-45f2-a666-146d4e613b8f.aaf0c348404ce8fa5c6bb3e7ed7931d7.jpeg",
+                    "title": "MEGA Pokmon Building Toy Kit Kanto Region Team with 4 Figures (130 Pieces), Ages 8 and up, Plastic",
+                    "sponsored": false,
+                    "product_id": "405654641",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": true,
+                    "delivery": true,
+                    "shipping": true,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 0 },
+                "rating": { "count": 50, "rating": 4.2 },
+                "seller": {
+                    "id": "AC8DAD85518F4913AF2BAD079D01C9FD",
+                    "name": "Collectors Inc"
+                },
+                "general": {
+                    "pos": 17,
+                    "url": "/ip/Pokemon-Trading-Cards-SAS7-Evolving-Skies-Elite-Trainer-Box/457120955?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Trading-Cards-SAS7-Evolving-Skies-Elite-Trainer-Box_b1d3fbe2-327b-47e0-922d-ec6f110272fe.03f99a8f28a7267728139c2b9abb0635.jpeg",
+                    "title": "Pokemon Trading Cards: SAS7 Evolving Skies Elite Trainer Box",
+                    "sponsored": false,
+                    "product_id": "457120955",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 67.64,
+                    "currency": "USD",
+                    "price_strikethrough": 92.98
+                },
+                "rating": { "count": 376, "rating": 4.6 },
+                "seller": {
+                    "id": "E480B19A53CC45AE85A2B1EAA9DE68CB",
+                    "name": "Flipside Gaming"
+                },
+                "general": {
+                    "pos": 18,
+                    "url": "/ip/Pokemon-TCG-Charizard-ex-Super-Premium-Collection/8177053453?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-TCG-Charizard-ex-Super-Premium-Collection_5ac9b29e-a9a8-4e15-9472-066a4577041d.98846c5bf5ea76109ecf0a6e1b9e8dc4.jpeg",
+                    "title": "Pokemon Trading Card Games Charizard ex Super - Premium Collection",
+                    "sponsored": false,
+                    "product_id": "8177053453",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 99.88, "currency": "USD" },
+                "rating": { "count": 104, "rating": 4.6 },
+                "seller": {
+                    "id": "5811F7C53AB14DE5943E726AA07291A9",
+                    "name": "Rares Market"
+                },
+                "general": {
+                    "pos": 19,
+                    "url": "/ip/Pokemon-Scarlet-Violet-Terrastal-Festival-Class-Enhanced-Expansion-Box-Japanese-Edition/14317716076?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Scarlet-Violet-Terrastal-Festival-Class-Enhanced-Expansion-Box-Japanese-Edition_2253526b-ba28-4502-ac47-02bb8480e01a.6faa66b7e530e44f5d1beb43b342f6a6.jpeg",
+                    "title": "Pokemon Scarlet & Violet Terastal Festival Class Enhanced Expansion Box (Japanese Edition)",
+                    "sponsored": false,
+                    "product_id": "14317716076",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 84.95, "currency": "USD" },
+                "rating": { "count": 32, "rating": 1.8 },
+                "seller": {
+                    "id": "6335DF30EFBA4AA8B9B2825EFC4B66A4",
+                    "name": "DV Collectibles"
+                },
+                "general": {
+                    "pos": 20,
+                    "url": "/ip/Pokemon-Trading-Card-Games-SAS11-Lost-Origin-Elite-Trainer-Box-8-Booster-Packs/3462079303?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Trading-Card-Games-SAS11-Lost-Origin-Elite-Trainer-Box-8-Booster-Packs_e8356fab-4f6e-43c5-b1e2-2c01c2a86478.95b2266dfb869da6f44149cd9eefdcc8.jpeg",
+                    "title": "Pokemon Trading Card Games SAS11 Lost Origin Elite Trainer Box - 8 Booster Packs",
+                    "sponsored": false,
+                    "product_id": "3462079303",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 25.49,
+                    "currency": "USD",
+                    "price_strikethrough": 29.97
+                },
+                "rating": { "count": 193, "rating": 4.8 },
+                "seller": {
+                    "id": "F55CDC31AB754BB68FE0B39041159D63",
+                    "name": "Walmart.com"
+                },
+                "general": {
+                    "pos": 21,
+                    "url": "/ip/POKEMON-SNORLAX-PLUSH-18-Inch-Sleeping-Pokemon-Plush/5293063814?classType=REGULAR&athbdg=L1102",
+                    "badge": "100+ bought since yesterday",
+                    "image": "https://i5.walmartimages.com/seo/POKEMON-SNORLAX-PLUSH-18-Inch-Sleeping-Pokemon-Plush_4081d05c-3cda-41c8-a170-7337e8655912.7e48558d864a4cf655cf799e1be25730.jpeg",
+                    "title": "Pokmon Official Plush 18 inch Sleeping Snorlax - Childs Soft Stuffed Animal Toy",
+                    "sponsored": false,
+                    "product_id": "5293063814",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": true,
+                    "delivery": true,
+                    "shipping": true,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 71.75, "currency": "USD" },
+                "rating": { "count": 136, "rating": 4.5 },
+                "seller": {
+                    "id": "BB5E2B129A574240B769F86006F5598E",
+                    "name": "ACM, LLC"
+                },
+                "general": {
+                    "pos": 22,
+                    "url": "/ip/Pok-mon-Card-Game-Scarlet-Violet-Super-Electric-Breaker-Booster-Box-Japanese/13503406249?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-Card-Game-Scarlet-Violet-Super-Electric-Breaker-Booster-Box-Japanese_d26673d3-f9c1-4d12-98b6-6be168fe48f8.8d430414ad2929b447ba17e4b9387042.jpeg",
+                    "title": "Pokmon Card Game Scarlet & Violet Super Electric Breaker Booster Box (Japanese)",
+                    "sponsored": false,
+                    "product_id": "13503406249",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 48.95, "currency": "USD" },
+                "rating": { "count": 24, "rating": 4.8 },
+                "seller": {
+                    "id": "FC2802AEC733421DA040BD05769BD9C5",
+                    "name": "Collector Store LLC"
+                },
+                "general": {
+                    "pos": 23,
+                    "url": "/ip/Pokemon-Dark-Powers-EX-Special-Collection-5-Booster-Packs-3-Promo-Cards-More/10293171126?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Dark-Powers-EX-Special-Collection-5-Booster-Packs-3-Promo-Cards-More_248949cc-6dbb-4f34-b183-6265c990fa22.fc0b6a895b649161849d731d66ff207e.jpeg",
+                    "title": "Pokemon Dark Powers EX Special Collection (5 Booster Packs, 3 Promo Cards & More)",
+                    "sponsored": false,
+                    "product_id": "10293171126",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 49.95, "currency": "USD" },
+                "rating": { "count": 181, "rating": 4.4 },
+                "seller": {
+                    "id": "A43C21C42880494E8BE11981051E867B",
+                    "name": "J & M Collectibles"
+                },
+                "general": {
+                    "pos": 24,
+                    "url": "/ip/Pokemon-Trading-Card-Games-Charizard-Ex-Premium-Box-6-Tcg-Booster-Packs/5061672881?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Trading-Card-Games-Charizard-Ex-Premium-Box-6-Tcg-Booster-Packs_7d360629-873d-4ccc-8e90-645d0693bc37.e6e8ff8cc6bc39f68d4cd19897199d39.jpeg",
+                    "title": "Pokemon Trading Card Games Charizard Premium Ex Box",
+                    "sponsored": false,
+                    "product_id": "5061672881",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 199.99, "currency": "USD" },
+                "rating": { "count": 138, "rating": 4.2 },
+                "seller": {
+                    "id": "45C4B5971AFE42909259C44AFC67A814",
+                    "name": "GT Collectibles and Toys"
+                },
+                "general": {
+                    "pos": 25,
+                    "url": "/ip/Pok-mon-TCG-Scarlet-Violet-8-Surging-Sparks-Booster-Display/10677066456?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-TCG-Scarlet-Violet-8-Surging-Sparks-Booster-Display_8a4e7ee5-a6d0-4cd4-bc78-a71b2f6b7b14.98e8d3eeab736e1533007f13ef8c9bef.jpeg",
+                    "title": "Pokmon TCG: Scarlet & Violet 8: Surging Sparks: Booster Display",
+                    "sponsored": false,
+                    "product_id": "10677066456",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 159.95,
+                    "currency": "USD",
+                    "price_strikethrough": 178.23
+                },
+                "rating": { "count": 159, "rating": 4.4 },
+                "seller": {
+                    "id": "7EB3EE56514544E599815535EE370CA9",
+                    "name": "Realgoodeal"
+                },
+                "general": {
+                    "pos": 26,
+                    "url": "/ip/Pokemon-Trading-Card-Game-Scarlet-and-Violet-Stellar-Crown-Booster-Box-36-Count/8867673598?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Trading-Card-Game-Scarlet-and-Violet-Stellar-Crown-Booster-Box-36-Count_90b11656-1403-431d-841c-8c71f7159ec6.9de079d708bde889b78e3b9073b1d44a.jpeg",
+                    "title": "Pokemon Trading Card Game: Scarlet and Violet Stellar Crown Booster Box 36 Count",
+                    "sponsored": false,
+                    "product_id": "8867673598",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 46.69, "currency": "USD" },
+                "rating": { "count": 10, "rating": 3.5 },
+                "seller": {
+                    "id": "02EC86F1043641F4A49AA0C5BCA0256E",
+                    "name": "TCG Monster"
+                },
+                "general": {
+                    "pos": 27,
+                    "url": "/ip/Pokemon-TCG-Scarlet-Violet-Surging-Spark-Build-and-Battle-Box/13671073441?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-TCG-Scarlet-Violet-Surging-Spark-Build-and-Battle-Box_514d3e4a-43e7-4d2a-b69c-e8c29fe78b48.1d9d5a234a123486d6fcae72625e725b.jpeg",
+                    "title": "Pokemon TCG: Scarlet  Violet - Surging Spark Build and Battle Box",
+                    "sponsored": false,
+                    "product_id": "13671073441",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 5.98, "currency": "USD" },
+                "rating": { "count": 3, "rating": 3.7 },
+                "seller": {
+                    "id": "F55CDC31AB754BB68FE0B39041159D63",
+                    "name": "Walmart.com"
+                },
+                "general": {
+                    "pos": 28,
+                    "url": "/ip/Pokemon-Valentine-s-Adult-2-Pack-Gift-Box-Socks/6621404443?classType=REGULAR&athbdg=L1102",
+                    "badge": "100+ bought since yesterday",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Valentine-s-Adult-2-Pack-Gift-Box-Socks_9e528f96-2044-47bf-80fa-2fcfb7ba240d.6bfa443db8a71996ae493cf4d06350f2.jpeg",
+                    "title": "Pokemon Valentine's Adult 2 Pack Gift Box Socks",
+                    "sponsored": false,
+                    "product_id": "6621404443",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": true,
+                    "delivery": true,
+                    "shipping": true,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 0 },
+                "rating": { "count": 32, "rating": 4.3 },
+                "seller": {
+                    "id": "81007BDD99F64EAF83E854399B7DFA57",
+                    "name": "LX Distribution"
+                },
+                "general": {
+                    "pos": 29,
+                    "url": "/ip/POKEMON-FALL-COLLECTORS-CHEST-2024/13587262907?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/POKEMON-FALL-COLLECTORS-CHEST-2024_680262b7-ba89-43df-b17b-855929fcf217.2739837ff1a94a72e9189e55dd2bbf67.jpeg",
+                    "title": "Pokemon Trading Card Games Fall Collectors Chest 2024",
+                    "sponsored": false,
+                    "product_id": "13587262907",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 18.9, "currency": "USD", "price_min": 18 },
+                "rating": { "count": 185, "rating": 4.9 },
+                "seller": {
+                    "id": "49E6D96C3AB041AF9FEBF5AB56A18C8D",
+                    "name": "BoxyCo Market"
+                },
+                "general": {
+                    "pos": 30,
+                    "url": "/ip/Pokemon-All-Pika-Suit-V2-Boys-Apparel-Graphic-Long-Sleeve-Hoodie-Sizes-4-18-Little-Boys-Big-Boys/5301041287?classType=VARIANT",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-All-Pika-Suit-V2-Boys-Apparel-Graphic-Long-Sleeve-Hoodie-Sizes-4-18-Little-Boys-Big-Boys_76fcf5a3-bd16-49ef-9017-892481470a5a.f91b698edef2fd01eb2c5da553313cf1.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+                    "title": "Pokemon All Pika Suit V2 Boys Apparel, Graphic Long Sleeve Hoodie, Sizes 4-18 (Little Boys & Big Boys)",
+                    "sponsored": false,
+                    "product_id": "5301041287",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "variants": [
+                    {
+                        "url": "/ip/Pokemon-All-Pika-Suit-V2-Boys-Apparel-Graphic-Long-Sleeve-Hoodie-Sizes-4-18-Little-Boys-Big-Boys/5300483076?classType=undefined&variantFieldId=clothing_size",
+                        "image": "https://i5.walmartimages.com/asr/76fcf5a3-bd16-49ef-9017-892481470a5a.f91b698edef2fd01eb2c5da553313cf1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "4-5",
+                        "product_id": "5300483076"
+                    },
+                    {
+                        "url": "/ip/Pokemon-All-Pika-Suit-V2-Boys-Apparel-Graphic-Long-Sleeve-Hoodie-Sizes-4-18-Little-Boys-Big-Boys/5301041287?classType=undefined&variantFieldId=clothing_size",
+                        "image": "https://i5.walmartimages.com/asr/76fcf5a3-bd16-49ef-9017-892481470a5a.f91b698edef2fd01eb2c5da553313cf1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "6-7",
+                        "product_id": "5301041287"
+                    },
+                    {
+                        "url": "/ip/Pokemon-All-Pika-Suit-V2-Boys-Apparel-Graphic-Long-Sleeve-Hoodie-Sizes-4-18-Little-Boys-Big-Boys/5296376399?classType=undefined&variantFieldId=clothing_size",
+                        "image": "https://i5.walmartimages.com/asr/76fcf5a3-bd16-49ef-9017-892481470a5a.f91b698edef2fd01eb2c5da553313cf1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "8",
+                        "product_id": "5296376399"
+                    },
+                    {
+                        "url": "/ip/Pokemon-All-Pika-Suit-V2-Boys-Apparel-Graphic-Long-Sleeve-Hoodie-Sizes-4-18-Little-Boys-Big-Boys/5296740722?classType=undefined&variantFieldId=clothing_size",
+                        "image": "https://i5.walmartimages.com/asr/76fcf5a3-bd16-49ef-9017-892481470a5a.f91b698edef2fd01eb2c5da553313cf1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "10-12",
+                        "product_id": "5296740722"
+                    },
+                    {
+                        "url": "/ip/Pokemon-All-Pika-Suit-V2-Boys-Apparel-Graphic-Long-Sleeve-Hoodie-Sizes-4-18-Little-Boys-Big-Boys/5387403899?classType=undefined&variantFieldId=clothing_size",
+                        "image": "https://i5.walmartimages.com/asr/76fcf5a3-bd16-49ef-9017-892481470a5a.f91b698edef2fd01eb2c5da553313cf1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "14-16",
+                        "product_id": "5387403899"
+                    },
+                    {
+                        "url": "/ip/Pokemon-All-Pika-Suit-V2-Boys-Apparel-Graphic-Long-Sleeve-Hoodie-Sizes-4-18-Little-Boys-Big-Boys/5392016604?classType=undefined&variantFieldId=clothing_size",
+                        "image": "https://i5.walmartimages.com/asr/76fcf5a3-bd16-49ef-9017-892481470a5a.f91b698edef2fd01eb2c5da553313cf1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "18",
+                        "product_id": "5392016604"
+                    }
+                ],
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 39.99, "currency": "USD" },
+                "rating": { "count": 15, "rating": 4.9 },
+                "seller": {
+                    "id": "A9F4FFD7C59742F9876748624B5A549B",
+                    "name": "MHDEALSPLUS"
+                },
+                "general": {
+                    "pos": 31,
+                    "url": "/ip/Pok-mon-TCG-Grand-Adventure-Collection/10681771578?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-TCG-Grand-Adventure-Collection_8588b586-0e21-4b60-aceb-e220d82f8c80.931be355ca2af45ce9e2a05f35714287.jpeg",
+                    "title": "Pokemon Trading Card Games Grand Adventure Collection",
+                    "sponsored": false,
+                    "product_id": "10681771578",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 19.97, "currency": "USD" },
+                "rating": { "count": 755, "rating": 4.8 },
+                "seller": {
+                    "id": "F55CDC31AB754BB68FE0B39041159D63",
+                    "name": "Walmart.com"
+                },
+                "general": {
+                    "pos": 32,
+                    "url": "/ip/MEGA-Pokemon-Charizard-Building-Set-222-Pieces-with-1-Action-Figure-for-Boys-and-Girls/958975987?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/MEGA-Pokemon-Charizard-Building-Set-222-Pieces-with-1-Action-Figure-for-Boys-and-Girls_35fcb3f8-4fd5-4bf3-96b6-dbbb23a044e5.3f2b92dc09874b59c56fbe0eafd96100.jpeg",
+                    "title": "MEGA Pokemon Charizard Building Set (222 Pieces) with 1 Action Figure for Boys and Girls",
+                    "sponsored": false,
+                    "product_id": "958975987",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": true,
+                    "delivery": true,
+                    "shipping": true,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 4.97, "currency": "USD" },
+                "rating": { "count": 38, "rating": 4.6 },
+                "seller": {
+                    "id": "F55CDC31AB754BB68FE0B39041159D63",
+                    "name": "Walmart.com"
+                },
+                "general": {
+                    "pos": 33,
+                    "url": "/ip/Pokemon-32-page-Puffy-Sticker-Coloring-and-Activity-Book-by-Bendon-Paperback-9781690256595/5382141094?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-32-page-Puffy-Sticker-Coloring-and-Activity-Book-by-Bendon-Paperback-9781690256595_87beb227-0a0c-4df7-9d6a-161eb6fefdb4.df48b9d1c70bb8376aaed8a31b672a46.jpeg",
+                    "title": "Pokemon 32-page Puffy Sticker Coloring and Activity Book, by Bendon, Paperback",
+                    "sponsored": false,
+                    "product_id": "5382141094",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": true,
+                    "delivery": true,
+                    "shipping": false,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 197.99, "currency": "USD" },
+                "rating": { "count": 8, "rating": 5 },
+                "seller": {
+                    "id": "E480B19A53CC45AE85A2B1EAA9DE68CB",
+                    "name": "Flipside Gaming"
+                },
+                "general": {
+                    "pos": 34,
+                    "url": "/ip/POKEMON-TCG-SCARLET-VIOLET-PRISMATIC-EVOLUTIONS-MINI-TIN-DISPLAY-8CT-DISPLAY/5984332803?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/POKEMON-TCG-SCARLET-VIOLET-PRISMATIC-EVOLUTIONS-MINI-TIN-DISPLAY-8CT-DISPLAY_e2c8b1cd-462b-479a-9158-8c6fb643f07a.6171df875d309cfe9883fbee0f749ecd.jpeg",
+                    "title": "Pokemon TCG: Scarlet & VioletPrismatic Evolutions Mini Tin Display Box | 8 Tins Included!",
+                    "sponsored": false,
+                    "product_id": "5984332803",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": {
+                    "price": 51.99,
+                    "currency": "USD",
+                    "price_min": 51.1
+                },
+                "rating": { "count": 1215, "rating": 4.9 },
+                "seller": {
+                    "id": "A341760946AE4CEE97285E368B62AAB9",
+                    "name": "Daily Deal Depot"
+                },
+                "general": {
+                    "pos": 35,
+                    "url": "/ip/Pokemon-Pikachu-Plush-24-inch-Plush-with-Authentic-Details/5277584857?classType=VARIANT",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Pikachu-Plush-24-inch-Plush-with-Authentic-Details_6ad2353e-7431-44af-96f1-14e118fbbf06.2ff5b00e118f9fb3e009b31a11252bed.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+                    "title": "Pokemon Pikachu Plush - 24 inch Plush with Authentic Details",
+                    "sponsored": false,
+                    "product_id": "5277584857",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "variants": [
+                    {
+                        "url": "/ip/Pokemon-Charizard-Plush-24-Inch-Soft-Plush-with-Authentic-Details/5281378350?classType=undefined&variantFieldId=character",
+                        "image": "https://i5.walmartimages.com/asr/3c405193-a242-42cb-bc7e-5422b313b9bb.4224e4b749930a0fa3722a374cefba33.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "Charizard",
+                        "product_id": "5281378350"
+                    },
+                    {
+                        "url": "/ip/POKEMON-EEVEE-PLUSH-24-Inch-Pokemon-Plush-Authentic-Details/5332753898?classType=undefined&variantFieldId=character",
+                        "image": "https://i5.walmartimages.com/asr/47a8eccc-5a82-449c-b093-61cb563939be.527345936bfcbe5883860b31492ccbe7.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "Eevee",
+                        "product_id": "5332753898"
+                    },
+                    {
+                        "url": "/ip/POKEMON-GENGAR-PLUSH-24-Inch-Pokemon-Plush-Authentic-Details/5371024024?classType=undefined&variantFieldId=character",
+                        "image": "https://i5.walmartimages.com/asr/e3e0fd0e-eded-4859-8c4a-02ef6045f672.e7205600db1a53ba3179b50d03f23fec.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "Gengar",
+                        "product_id": "5371024024"
+                    },
+                    {
+                        "url": "/ip/Pokemon-Pikachu-Plush-24-inch-Plush-with-Authentic-Details/5277584857?classType=undefined&variantFieldId=character",
+                        "image": "https://i5.walmartimages.com/asr/6ad2353e-7431-44af-96f1-14e118fbbf06.2ff5b00e118f9fb3e009b31a11252bed.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "Pikachu",
+                        "product_id": "5277584857"
+                    },
+                    {
+                        "url": "/ip/POKEMON-SNORLAX-PLUSH-24-Inch-Pokemon-Plush/5281378354?classType=undefined&variantFieldId=character",
+                        "image": "https://i5.walmartimages.com/asr/03272f50-5330-42ec-8c1a-c43c876e3e91.f7c2e8cc4927a897b59d1dc2e041d093.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                        "title": "Snorlax",
+                        "product_id": "5281378354"
+                    }
+                ],
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 44.9, "currency": "USD" },
+                "rating": { "count": 825, "rating": 4.7 },
+                "seller": {
+                    "id": "040706DB512A47D8AE9E58B148E1CD4C",
+                    "name": "Everything For Sale"
+                },
+                "general": {
+                    "pos": 36,
+                    "url": "/ip/Pokemon-Trading-Card-Games-Scarlet-Violet-3-5-151-Poster-Collection-Box-3-Pokemon-TCG-Scarlet-Violet-151-booster-packs/2121361619?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Trading-Card-Games-Scarlet-Violet-3-5-151-Poster-Collection-Box-3-Pokemon-TCG-Scarlet-Violet-151-booster-packs_6d2d5446-1ad8-4f85-8b20-7027e3fe6c68.bcd7bd213ae40b77b1ed22238a79ebcf.jpeg",
+                    "title": "Pokemon Trading Card Games Scarlet & Violet 3.5 151 Poster Collection Box - 3 Pokemon TCG: Scarlet & Violet151 booster packs",
+                    "sponsored": false,
+                    "product_id": "2121361619",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 69.98, "currency": "USD" },
+                "rating": { "count": 133, "rating": 4.6 },
+                "seller": {
+                    "id": "3E69F9FB82FF418498A9C7D81317CE15",
+                    "name": "IGOODS LLC"
+                },
+                "general": {
+                    "pos": 37,
+                    "url": "/ip/Pokemon-Trading-Card-Games-Scarlet-Violet-8-5-Prismatic-Evolutions-Binder-Collection/14078321300?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Trading-Card-Games-Scarlet-Violet-8-5-Prismatic-Evolutions-Binder-Collection_cc8d08f3-3976-4d66-b012-f2099fac2e08.50b48927cb2d3e632cd3d11b92647bab.jpeg",
+                    "title": "Pokemon Scarlet & Violet 8.5 Prismatic Evolutions Binder Collection",
+                    "sponsored": false,
+                    "product_id": "14078321300",
+                    "out_of_stock": false,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": true,
+                    "free_shipping": true
+                }
+            },
+            {
+                "price": { "price": 55, "currency": "USD" },
+                "rating": { "count": 0, "rating": 0 },
+                "seller": {
+                    "id": "F55CDC31AB754BB68FE0B39041159D63",
+                    "name": "Walmart.com"
+                },
+                "general": {
+                    "pos": 38,
+                    "url": "/ip/Pokemon-Journey-Together-SV09-Elite-Trainer-Box/15156564532?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Journey-Together-SV09-Elite-Trainer-Box_2953d703-9b8e-4836-9dc6-3b30ec6dec70.c568eafff3ccf4e09700457675651d75.jpeg",
+                    "title": "Pokemon Trading Card Game Scarlet & Violet 9 Journey Together Elite Trainer Box",
+                    "sponsored": false,
+                    "product_id": "15156564532",
+                    "out_of_stock": true,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": false,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 28.87, "currency": "USD" },
+                "rating": { "count": 0, "rating": 0 },
+                "seller": {
+                    "id": "F55CDC31AB754BB68FE0B39041159D63",
+                    "name": "Walmart.com"
+                },
+                "general": {
+                    "pos": 39,
+                    "url": "/ip/Pok-mon-TCG-Scarlet-Violet-9-Journey-Together-Booster-Bundle/15042474261?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pok-mon-TCG-Scarlet-Violet-9-Journey-Together-Booster-Bundle_24373564-2283-4c27-9730-2802c999a960.296e2be9770d7e749a54e555ee9e438f.jpeg",
+                    "title": "Pokemon Trading Card Games Scarlet & Violet 9 Journey Together Booster Bundle",
+                    "sponsored": false,
+                    "product_id": "15042474261",
+                    "out_of_stock": true,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": false,
+                    "free_shipping": false
+                }
+            },
+            {
+                "price": { "price": 14.87, "currency": "USD" },
+                "rating": { "count": 0, "rating": 0 },
+                "seller": {
+                    "id": "F55CDC31AB754BB68FE0B39041159D63",
+                    "name": "Walmart.com"
+                },
+                "general": {
+                    "pos": 40,
+                    "url": "/ip/Pokemon-Trading-Card-Games-SV9-Journey-Together-3Pk-Blister/15118973121?classType=REGULAR",
+                    "image": "https://i5.walmartimages.com/seo/Pokemon-Trading-Card-Games-SV9-Journey-Together-3Pk-Blister_f6249057-803c-4185-87db-bfc8df1e5d1d.5c5ca788ae03db7bf5dbaae05ce483fc.jpeg",
+                    "title": "Pokemon Trading Card Games Scarlet & Violet 9 Journey Together 3Pk Blister Styles May Vary",
+                    "sponsored": false,
+                    "product_id": "15118973121",
+                    "out_of_stock": true,
+                    "section_title": "Results for \"pokemon\""
+                },
+                "fulfillment": {
+                    "pickup": false,
+                    "delivery": false,
+                    "shipping": false,
+                    "free_shipping": false
+                }
+            }
+        ],
+        "location": {
+            "city": "Nashua",
+            "state": "NH",
+            "zipcode": "03060",
+            "store_id": "1785"
+        },
+        "page_details": {
+            "page": 1,
+            "total_results": 426744,
+            "last_visible_page": 25
+        },
+        "parse_status_code": 12000
+    },
+    "created_at": "2025-02-13 14:45:33",
+    "updated_at": "2025-02-13 14:45:37",
+    "page": 1,
+    "url": "https://www.walmart.com/search?q=pokemon",
+    "job_id": "7295815369862697985",
+    "is_render_forced": false,
+    "status_code": 200,
+    "parser_type": "walmart_search_new"
+}
