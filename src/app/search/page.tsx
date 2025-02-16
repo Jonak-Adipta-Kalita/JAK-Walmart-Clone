@@ -1,6 +1,5 @@
 import Product from "@/components/Product";
 import { fetchSearch } from "@/lib/fetchSearch";
-import fs from "fs";
 
 const SearchPage = async ({
     searchParams: { q },
@@ -10,11 +9,6 @@ const SearchPage = async ({
     };
 }) => {
     const results = await fetchSearch(q);
-    fs.writeFile("data.json", JSON.stringify(results), (err) => {
-        if (err) {
-            console.log(err);
-        }
-    });
 
     return (
         <div className="p-10">
