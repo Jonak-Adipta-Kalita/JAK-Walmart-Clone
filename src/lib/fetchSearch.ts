@@ -1,6 +1,6 @@
 import { Result, SearchResult } from "@/typings/searchTypings";
 
-export const USE_DUMMY_DATA = false;
+export const USE_DUMMY_DATA = true;
 
 export const fetchSearch = async (searchTerm: string) => {
     const username = process.env.OXYLABS_USERNAME;
