@@ -1,3 +1,4 @@
+import AddToCart from "@/components/AddToCart";
 import { Badge } from "@/components/ui/badge";
 import {
     Carousel,
@@ -93,6 +94,7 @@ const ProductPage = async ({
                 <p className="text-2xl font-bold mt-2">
                     {product?.price.currency} {product.price.price}
                 </p>
+                <AddToCart product={product} />
                 <hr />
                 <Table>
                     <TableHeader>
