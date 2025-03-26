@@ -1,5 +1,7 @@
 // I will not be doing DUMMY_DATA for products :D
 
+import { ProductParent } from "@/typings/productTypings";
+
 export const fetchProduct = async (url: string) => {
     const username = process.env.OXYLABS_USERNAME;
     const password = process.env.OXYLABS_PASSWORD;

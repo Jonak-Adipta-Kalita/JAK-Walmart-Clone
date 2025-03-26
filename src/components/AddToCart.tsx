@@ -1,3 +1,5 @@
+import { Product } from "@/typings/productTypings";
+
 const AddToCart = ({ product }: { product: Product }) => {
     return <div></div>;
 };

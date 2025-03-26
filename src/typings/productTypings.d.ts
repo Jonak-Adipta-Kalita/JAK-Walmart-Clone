@@ -1,8 +1,8 @@
-type ProductParent = {
+export type ProductParent = {
     results: ProductContent[];
 };
 
-type ProductContent = {
+export type ProductContent = {
     content: Product;
     created_at: string;
     updated_at: string;
@@ -14,7 +14,7 @@ type ProductContent = {
     parser_type: string;
 };
 
-type Product = {
+export type Product = {
     price: ProductPrice;
     rating: ProductRating;
     seller: Seller;
@@ -27,18 +27,18 @@ type Product = {
     parse_status_code: number;
 };
 
-type ProductPrice = {
+export type ProductPrice = {
     price: number;
     currency: string;
     price_strikethrough: number;
 };
 
-type ProductRating = {
+export type ProductRating = {
     count: number;
     rating: number;
 };
 
-type Seller = {
+export type Seller = {
     id: string;
     url: string;
     name: string;
@@ -46,7 +46,7 @@ type Seller = {
     official_name: string;
 };
 
-type ProductGeneral = {
+export type ProductGeneral = {
     url: string;
     meta: ProductMeta;
     badge: string;
@@ -57,35 +57,35 @@ type ProductGeneral = {
     description: string;
 };
 
-type ProductMeta = {
+export type ProductMeta = {
     sku: string;
     gtin: string;
 };
 
-type ProductLocation = {
+export type ProductLocation = {
     city: string;
     state: string;
     store_id: string;
     zip_code: string;
 };
 
-type ProductVariation = {
+export type ProductVariation = {
     state: string;
     product_id: string;
     selected_options: ProductVariationOption[];
 };
 
-type ProductVariationOption = {
+export type ProductVariationOption = {
     key: string;
     value: string;
 };
 
-type ProductBreadcrumb = {
+export type ProductBreadcrumb = {
     url: string;
     category_name: string;
 };
 
-type ProductFulfillment = {
+export type ProductFulfillment = {
     pickup: boolean;
     delivery: boolean;
     shipping: boolean;
@@ -96,7 +96,7 @@ type ProductFulfillment = {
     shipping_information: string;
 };
 
-type ProductSpecification = {
+export type ProductSpecification = {
     key: string;
     value: string;
 };
