@@ -23,6 +23,8 @@ export const useCartStore = create<CartState>()(
                 );
 
                 set((state) => {
+                    if (state.cart.length <= 0) return { cart: [] };
+
                     const newCart = [...state.cart];
 
                     newCart.splice(productToRemove, 1);
