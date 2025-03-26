@@ -1,7 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Grid2X2, Heart, LayoutGrid, ShoppingCart, User } from "lucide-react";
+import { Grid2X2, Heart, LayoutGrid, User } from "lucide-react";
 import SearchField from "./SearchField";
+import BasketHeaderItem from "./BasketHeaderItem";
 
 const Header = () => {
     return (
@@ -38,13 +39,7 @@ const Header = () => {
                         <p>Account</p>
                     </div>
                 </Link>
-                <Link href="/basket" className="flex header-links">
-                    <ShoppingCart size={20} />
-                    <div className="">
-                        <p className="text-xs font-extralight">No Items</p>
-                        <p>$0.00</p>
-                    </div>
-                </Link>
+                <BasketHeaderItem />
             </div>
         </header>
     );
