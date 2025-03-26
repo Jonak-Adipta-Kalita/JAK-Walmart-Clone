@@ -17,7 +17,7 @@ const BasketHeaderItem = () => {
                 <p className="text-xs font-extralight">
                     {`${cart.length > 0 ? `${cart.length}` : "No Items"}`}
                 </p>
-                <p>{cart.length > 0 ? total : "$0.00"}</p>
+                <p>{total}</p>
             </div>
         </Link>
     );
