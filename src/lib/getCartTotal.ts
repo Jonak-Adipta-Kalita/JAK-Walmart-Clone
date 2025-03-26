@@ -8,5 +8,5 @@ export const getCartTotal = (products: Product[]): string => {
         0
     );
 
-    return ` ${products[0]?.price.currency || ""} ${total.toFixed(2)}`;
+    return `${products[0]?.price.currency || ""} ${total.toFixed(2)}`;
 };
