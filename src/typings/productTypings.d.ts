@@ -1,4 +1,4 @@
-type Product = {
+type ProductParent = {
     results: ProductContent[];
 };
 

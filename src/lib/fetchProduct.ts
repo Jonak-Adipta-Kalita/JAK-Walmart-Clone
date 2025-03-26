@@ -27,11 +27,13 @@ export const fetchProduct = async (url: string) => {
         },
     })
         .then((res) => res.json())
-        .then((data) => {
+        .then((data: ProductParent) => {
             if (data.results.length === 0) return;
 
-            const result: ProductContent = data.results[0];
+            const result = data.results[0];
             const product = result.content;
+
+            console.log(product.general.main_image);
 
             return product;
         })
